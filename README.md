@@ -3,43 +3,20 @@ Welcome to my Microverse Repo, I hope you will like it.
 
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
@@ -48,9 +25,29 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello_Microverse] <a name="about-project"></a>
 
-> My first project in Microverse
+My first project in Microverse
 
 **[Hello_Microverse]** is a basic webpage for Microverse's project
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Markup</summary>
+  <ul>
+    <li><a href="https://html.com/">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Style sheet</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
@@ -105,6 +102,13 @@ To get a local copy up and running, follow these steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
